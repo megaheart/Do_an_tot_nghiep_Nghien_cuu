@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "*.aux":true,
+        "*.lof":true,
+        "*.log":true,
+        "*.lot":true,
+        "*.xml":true,
+        "*.pdf":true,
+        "*.out":true,
+        "*.gz":true,
+        "*.toc":true,
+        "*-blx.bib":true
+    }
+}
