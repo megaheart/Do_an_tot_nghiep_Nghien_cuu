@@ -8,3 +8,4 @@
 *.gz
 *.toc
 *-blx.bib
+out/
